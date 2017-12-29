@@ -13,4 +13,4 @@ En nog een tekst.
 
 ![Nog een image!!](/img/13fa186a-b5ba-412f-bdb6-de32bee8ac12.jpeg)
 
-![null](/img/products-grid1.jpg)
+![Trkst](/img/products-grid1.jpg)
