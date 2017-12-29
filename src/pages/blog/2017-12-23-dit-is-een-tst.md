@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: Test
-title: Dit is een tst
+title: Dit is een test
 date: 2017-12-23T17:42:02.242Z
 description: Beschrijving van blogpost test
 ---
@@ -13,4 +13,4 @@ En nog een tekst.
 
 ![Nog een image!!](/img/13fa186a-b5ba-412f-bdb6-de32bee8ac12.jpeg)
 
-![](/img/products-grid1.jpg)
+![null](/img/products-grid1.jpg)
