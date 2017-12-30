@@ -17,4 +17,4 @@ En nog een tekst.
 
 Ditvidfffv
 
-![Chemex](/img/chemex.jpg)
+![Chemex](/img/animaatjes-tijgers-60628.jpg)
