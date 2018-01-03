@@ -15,6 +15,6 @@ En nog een tekst.
 
 ![Trkst](/img/products-grid1.jpg)
 
-Ditvidfffv
+En hieronder een tijger
 
 ![Chemex](/img/animaatjes-tijgers-60628.jpg)
