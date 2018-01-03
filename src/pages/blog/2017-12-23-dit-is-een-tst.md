@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: Test
+path: /serge-test
 title: Dit is een test
 date: 2017-12-23T17:42:02.242Z
 description: Beschrijving van blogpost test
