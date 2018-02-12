@@ -3,7 +3,7 @@ templateKey: product-page
 path: /products
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: What we offer
+heading: What we offer here
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -40,7 +40,7 @@ intro:
         sale. The full price you pay goes to the artist.
     - image: /img/animaatjes-tijgers-60628.jpg
       text: My blurb
-  heading: What we offer
+  heading: What we offer here
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
