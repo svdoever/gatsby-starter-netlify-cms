@@ -40,6 +40,8 @@ intro:
         sale. The full price you pay goes to the artist.
     - image: /img/animaatjes-tijgers-60628.jpg
       text: My blurb
+    - image: /img/accelerate your mobile.jpg
+      text: The king!
   heading: What we offer here
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
